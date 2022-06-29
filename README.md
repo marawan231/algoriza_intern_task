@@ -1,6 +1,8 @@
 # algoriza_task
 
 splash screen and login screen and register screen just UI.
+![algoriza](https://user-images.githubusercontent.com/81522801/176409258-9468bab4-4ad9-48c9-9701-be4b95a0f35a.jpg)
+
 
 ## Getting Started
 
