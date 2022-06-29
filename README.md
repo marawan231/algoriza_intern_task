@@ -1,6 +1,6 @@
 # algoriza_task
 
-A new Flutter project.
+splash screen and login screen and register screen just UI.
 
 ## Getting Started
 
